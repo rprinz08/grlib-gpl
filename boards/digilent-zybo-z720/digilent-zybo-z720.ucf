@@ -1,0 +1,25 @@
+
+NET led[0]              LOC = M14  | IOSTANDARD=LVCMOS33;  # "LED0"
+NET led[1]              LOC = M15  | IOSTANDARD=LVCMOS33;  # "LED1"
+NET led[2]              LOC = G14  | IOSTANDARD=LVCMOS33;  # "LED2"
+NET led[3]              LOC = D18  | IOSTANDARD=LVCMOS33;  # "LED3"
+NET led[4]              LOC = T5   | IOSTANDARD=LVCMOS33;  # "LED5_G"
+NET led[5]              LOC = Y11  | IOSTANDARD=LVCMOS33;  # "LED5_R"
+NET led[6]              LOC = F17  | IOSTANDARD=LVCMOS33;  # "LED6_G"
+NET led[7]              LOC = V16  | IOSTANDARD=LVCMOS33;  # "LED6_R"
+
+NET button[0]           LOC = K18  | IOSTANDARD=LVCMOS33;  # "BTN0"
+NET button[1]           LOC = P16  | IOSTANDARD=LVCMOS33;  # "BTN1"
+NET button[2]           LOC = K19  | IOSTANDARD=LVCMOS33;  # "BTN2"
+NET button[3]           LOC = Y16  | IOSTANDARD=LVCMOS33;  # "BTN3"
+
+NET switch[0]           LOC = G15  | IOSTANDARD=LVCMOS33;  # "SW0"
+NET switch[1]           LOC = P15  | IOSTANDARD=LVCMOS33;  # "SW1"
+NET switch[2]           LOC = W13  | IOSTANDARD=LVCMOS33;  # "SW2"
+NET switch[3]           LOC = T16  | IOSTANDARD=LVCMOS33;  # "SW3"
+
+NET switch[4]           LOC = V13  | IOSTANDARD=LVCMOS33;  # "JE7"
+NET switch[5]           LOC = U17  | IOSTANDARD=LVCMOS33;  # "JE8"
+NET switch[6]           LOC = T17  | IOSTANDARD=LVCMOS33;  # "JE9"
+NET switch[7]           LOC = Y17  | IOSTANDARD=LVCMOS33;  # "JE10"
+
